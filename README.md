@@ -15,6 +15,6 @@ A single dict would be in this structure :
 }
 ```
 ## Demo
-![image](https://github.com/chuang861012/exhentai-huolu-chrome_extension/blob/master/demo.gif)
+![image](https://github.com/chuang861012/simple-health-scraper/blob/master/demo.gif)
 ## Todo
 A few the articles in this website are in different html structure. The program won't get the result correctly. But it won't crash. Must be fixed in the future.
