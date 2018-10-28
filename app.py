@@ -19,7 +19,7 @@ def getSearchResult(url,results=[]):
     if len(next_page) > 0:
         # delay 0.5 sec
         sleep(.5)
-        return getSearchResult(next_page[0])
+        return getSearchResult(next_page[0],results)
     else:
         return results
 

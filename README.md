@@ -8,10 +8,10 @@ You will receive a list of all the results in dict.
 A single dict would be in this structure : 
 ```
 {
-    title:<str>,
-    date:<str>,
-    author:<str>,
-    body:<str>
+    title : <str>,
+    date : <str>,
+    author : <str>,
+    body : <str>
 }
 ```
 ## Demo
